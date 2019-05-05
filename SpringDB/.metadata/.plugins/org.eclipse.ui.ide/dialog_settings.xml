@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\STUDENTS USE\Spring-Project\Microservice\sathyatel-calldetails"/>
+		<item value="E:\SpringDB\Spring5WebMvcOrmExI18N"/>
+		<item value="E:\SpringDB"/>
+	</list>
+	<section name="NewWizardAction">
+	</section>
+</section>

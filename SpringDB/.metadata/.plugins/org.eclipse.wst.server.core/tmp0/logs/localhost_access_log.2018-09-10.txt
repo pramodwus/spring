@@ -1,0 +1,5 @@
+127.0.0.1 - - [10/Sep/2018:02:27:07 -0700] "GET / HTTP/1.1" 404 1073
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:02:27:12 -0700] "GET /RegisterMVC/ HTTP/1.1" 200 348
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:02:27:15 -0700] "GET /RegisterMVC/registerpage.html HTTP/1.1" 200 1249
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:02:27:32 -0700] "POST /RegisterMVC/registerUser.html HTTP/1.1" 200 1870
+0:0:0:0:0:0:0:1 - - [10/Sep/2018:02:28:19 -0700] "POST /RegisterMVC/registerUser.html HTTP/1.1" 200 301
